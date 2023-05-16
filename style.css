@@ -60,3 +60,7 @@ a {
 .contacts_list li a {
     text-decoration: none;
 }
+
+footer {
+    text-align: center;
+}
